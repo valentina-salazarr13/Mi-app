@@ -1,0 +1,26 @@
+{
+  "cwd": "D:\\Archivos Valentina\\Documentos\\6Semestre\\Integración\\mi-app",
+  "type": [
+    "web"
+  ],
+  "name": "My App",
+  "framework": "core",
+  "template": "single-view",
+  "bundler": "webpack",
+  "cssPreProcessor": "less",
+  "theming": {
+    "customColor": true,
+    "color": "#ff000b",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "webpack": {
+    "developmentSourceMap": true,
+    "productionSourceMap": true,
+    "hashAssets": false,
+    "preserveAssetsPaths": false,
+    "inlineAssets": true
+  }
+}
